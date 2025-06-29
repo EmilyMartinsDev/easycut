@@ -17,7 +17,6 @@ export interface IServicoResponse {
     id: string;
     valor: number;
     descricao: string;
-    // Adicione outros campos se necessário
 }
 
 export interface IServicoListResponse {
